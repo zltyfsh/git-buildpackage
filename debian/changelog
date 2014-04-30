@@ -1,3 +1,15 @@
+git-buildpackage (0.6.13~precise1) precise-backports; urgency=low
+
+  [ Guido Günther ]
+  * Slightly improve usage output
+
+  [ Per Carlson ]
+  * Modify gbp.conf for precise backport
+  * Ignore Python build helpers
+  * Lowered devscripts dependency and Standards-Version
+
+ -- Per Carlson <pelle@hemmop.com>  Wed, 30 Apr 2014 09:56:15 +0200
+
 git-buildpackage (0.6.13~bpo70+1) wheezy-backports; urgency=medium
 
   * Rebuild for wheezy-backports.
