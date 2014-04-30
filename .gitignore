@@ -2,6 +2,9 @@
 .noseids
 .coverage
 .ropeproject/
+coverage*/
+nose*/
+nosexcover*/
 coverage.xml
 gbp/version.py
 build/
